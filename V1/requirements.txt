@@ -8,3 +8,4 @@ pyTigerGraph
 datetime
 fastapi
 uvicorn
+PyYAML
