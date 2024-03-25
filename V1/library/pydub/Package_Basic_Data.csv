@@ -1,0 +1,21 @@
+name,author,author_email,license,development_status,source
+EASGen,A-c0rN,acrn@gwes-eas.network,ODbL-1.0,5 - Production/Stable,
+AudioToText,ETM Automation pvt.ltd.,author@example.com,,,
+EtmA2T,ETM Automation pvt.ltd.,author@example.com,,,
+audiotool,Q,aa@qq.com,GPL-3.0,4 - Beta,Pypi
+pydub,James Robert,jiaaro@gmail.com,MIT,5 - Production/Stable,Pypi
+audioconverter,David Lam,david.lam@lamdav.com,MIT,4 - Beta,Pypi
+pydub-stubs,SeparateRecords,hey@clo4.net,ISC,5 - Production/Stable,Pypi
+pozalabs-pydub,pozalabs,contact@pozalabs.com,,5 - Production/Stable,Pypi
+spotifymanna,Neelanjan Manna,,,,Pypi
+ccsy,,Seungmin Yoon <smyoon@cochl.ai>,,,Pypi
+PlaywrightCapture,Raphaël Vinot,raphael.vinot@circl.lu,BSD-3-Clause,,
+streamlit-audiorecorder,Evann Courdier,,,,Pypi
+audio-effects,Rainbow-Dreamer,1036889495@qq.com,LGPLv2.1,3 - Alpha,Pypi
+cochl,,Seungmin Yoon <smyoon@cochl.ai>,,,Pypi
+Mashup-Samarjot-102003242,Samarjot Singh,2001samar@gmail.com,MIT,,
+TextExtract-Img-Aud,Example Author,author@example.com,,,
+pydub-ffmpeg-wav,final9x (Real Author: James Robert),final9x@gmail.com,MIT,5 - Production/Stable,Pypi
+ttsdg,Charles Averill,charlesaverill20@gmail.com,,,Pypi
+elan-scissors,Florian Matter,florianmatter@gmail.com,,2 - Pre-Alpha,Pypi
+EtmAudio2Text,ETM Automation pvt.ltd.,author@example.com,,,

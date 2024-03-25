@@ -1,0 +1,21 @@
+name,author,author_email,license,development_status,source
+kotti_backend,Kotti developers,kotti@googlegroups.com,BSD-derived (http://www.repoze.org/LICENSE.txt),,
+pyramid_backend,Hoc .T Do,hoc3010@gmail.com,UNKNOWN,,
+ndar-backend,Christian Haselgrove,christian.haselgrove@umassmed.edu,BSD license,3 - Alpha,Pypi
+backend-utils,Mark Antipin,antipinsuperstar@yandex.ru,,,Pypi
+matheUI-backend,Samuel Brinkmann,,MIT,,
+ace-backend,Alexander Manakov,kokokostation@gmail.com,,,Pypi
+django-backend-auth-api,Mardochee KIKIGBAGBAN,kgmardochee@gmail.com,BSD-3-Clause  # Example license,,Pypi
+recast-backend,,,,,Pypi
+chrp-backend,BioProtean,,,,Pypi
+backend-setuptool,,Mohammad Mahfooz Alam <mahfooz.iiitian@gmail.com>,,,Pypi
+backend,Vibhaj Rajan,vibhaj8@gmail.com,MIT,,Pypi
+python-backend,zwczou,zwczou@gmail.com,BSD,,Pypi
+legistream-backend,king-millez,millez.dev@gmail.com,GPL-2.0-only,,Pypi
+Cloud-backend,Ishan Oshada,ic31908@gmail.com,MIT,3 - Alpha,
+punge-backend,,,,,Pypi
+marcobootstrap.backend,Diego Martín,martinarroyo@usal.es,MIT,3 - Alpha,
+passacre-backend,Aaron Gallagher,_@habnab.it,ISC,2 - Pre-Alpha,Pypi
+nucleaizer-backend,Ervin Tasnadi,tasnadi.ervin@brc.hu,GPL-3.0,3 - Alpha,Pypi
+PyStratum-Backend,Set Based IT Consultancy,info@setbased.nl,MIT,5 - Production/Stable,
+pdm-backend,,Frost Ming <me@frostming.com>,MIT,5 - Production/Stable,Pypi
